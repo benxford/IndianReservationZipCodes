@@ -1,0 +1,6462 @@
+[
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81328",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81321",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81324",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81324",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81334",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "84511",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Ute Mountain",
+        "ZipCode": "81326",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Little River",
+        "ZipCode": "49660",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Coyote Valley",
+        "ZipCode": "95470",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Guidiville",
+        "ZipCode": "95482",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Nisqually",
+        "ZipCode": "98580",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Nisqually",
+        "ZipCode": "98513",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Nisqually",
+        "ZipCode": "98433",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Mescalero",
+        "ZipCode": "88317",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Mescalero",
+        "ZipCode": "88340",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Mescalero",
+        "ZipCode": "88345",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Port Madison",
+        "ZipCode": "98346",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Port Madison",
+        "ZipCode": "98392",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Port Madison",
+        "ZipCode": "98370",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Port Madison",
+        "ZipCode": "98342",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Hoh",
+        "ZipCode": "98331",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Big Sandy",
+        "ZipCode": "93602",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28905",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28751",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28906",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28901",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28771",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28719",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28789",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Qualla Boundary",
+        "ZipCode": "28713",
+        "State": "NC"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54303",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54155",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54130",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54162",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54313",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54304",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54115",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Oneida (WI)",
+        "ZipCode": "54165",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Chehalis",
+        "ZipCode": "98568",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Chehalis",
+        "ZipCode": "98579",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quinault",
+        "ZipCode": "98566",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quinault",
+        "ZipCode": "98587",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quinault",
+        "ZipCode": "98331",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quinault",
+        "ZipCode": "98526",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quinault",
+        "ZipCode": "98552",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Squaxin Island",
+        "ZipCode": "98584",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Hoopa Valley",
+        "ZipCode": "95546",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "89029",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "89029",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "89029",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86436",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86436",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "92363",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "92363",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86440",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86440",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86440",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Fort Mojave",
+        "ZipCode": "86426",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57722",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57521",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69360",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69360",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69365",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69365",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57551",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57770",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57772",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57560",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57547",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57750",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57780",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57756",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57744",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69337",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "69337",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57752",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57714",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57794",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57577",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57543",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57716",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57764",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Pine Ridge",
+        "ZipCode": "57574",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57601",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57633",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57644",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57636",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57442",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57625",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57661",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57652",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57622",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57657",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57623",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57630",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57626",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57656",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Cheyenne River",
+        "ZipCode": "57748",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lower Brule",
+        "ZipCode": "57548",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lower Brule",
+        "ZipCode": "57569",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lower Brule",
+        "ZipCode": "57532",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lower Brule",
+        "ZipCode": "57544",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Kaibab",
+        "ZipCode": "86022",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Kaibab",
+        "ZipCode": "86022",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Augustine",
+        "ZipCode": "92274",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56554",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56569",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56651",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56521",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56589",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56578",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56516",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56566",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56621",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56575",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56557",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56542",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56591",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "White Earth",
+        "ZipCode": "56592",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Northern Cheyenne",
+        "ZipCode": "59012",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Northern Cheyenne",
+        "ZipCode": "59043",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Northern Cheyenne",
+        "ZipCode": "59003",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Northern Cheyenne",
+        "ZipCode": "59016",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81137",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81121",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81328",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81147",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81122",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81303",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Southern Ute",
+        "ZipCode": "81326",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "South Fork",
+        "ZipCode": "89815",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Wells",
+        "ZipCode": "89835",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Santa Ynez",
+        "ZipCode": "93460",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Barona",
+        "ZipCode": "92065",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Barona",
+        "ZipCode": "92040",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Santa Ana",
+        "ZipCode": "87004",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santa Ana",
+        "ZipCode": "87144",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santa Ana",
+        "ZipCode": "87043",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Skull Valley",
+        "ZipCode": "84029",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "54457",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "53718",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "54495",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "54499",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "54615",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "53951",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "53913",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "53965",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Ho-Chunk Nation",
+        "ZipCode": "54660",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Santee",
+        "ZipCode": "68718",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Santee",
+        "ZipCode": "68718",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Santee",
+        "ZipCode": "68724",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Santee",
+        "ZipCode": "68760",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Santee",
+        "ZipCode": "68760",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Coushatta",
+        "ZipCode": "70648",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Coushatta",
+        "ZipCode": "70532",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Susanville",
+        "ZipCode": "96130",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Chemehuevi",
+        "ZipCode": "92267",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Chemehuevi",
+        "ZipCode": "92363",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Roaring Creek",
+        "ZipCode": "96065",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pojoaque",
+        "ZipCode": "87506",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Pojoaque",
+        "ZipCode": "87507",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57570",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "69216",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "69201",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57566",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57572",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57563",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57555",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "57580",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Rosebud",
+        "ZipCode": "69212",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Ysleta del Sur",
+        "ZipCode": "79907",
+        "State": "TX"
+    },
+    {
+        "IndianReservation": "Ysleta del Sur",
+        "ZipCode": "79938",
+        "State": "TX"
+    },
+    {
+        "IndianReservation": "Kootenai",
+        "ZipCode": "83847",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Kootenai",
+        "ZipCode": "83845",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Kootenai",
+        "ZipCode": "83805",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Carson",
+        "ZipCode": "89703",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Lone Pine",
+        "ZipCode": "93545",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Indian Township",
+        "ZipCode": "04668",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Jemez",
+        "ZipCode": "87024",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Jicarilla Apache Nation",
+        "ZipCode": "87575",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Jicarilla Apache Nation",
+        "ZipCode": "87528",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Jicarilla Apache Nation",
+        "ZipCode": "87528",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Jicarilla Apache Nation",
+        "ZipCode": "87013",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Jicarilla Apache Nation",
+        "ZipCode": "87029",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "San Felipe",
+        "ZipCode": "87052",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "San Felipe",
+        "ZipCode": "87004",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "San Felipe",
+        "ZipCode": "87001",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85639",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85322",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85634",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85132",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85193",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85756",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85321",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85337",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tohono O'odham Nation",
+        "ZipCode": "85746",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85533",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85192",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85530",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85543",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85536",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85542",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "San Carlos",
+        "ZipCode": "85550",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Tonto Apache",
+        "ZipCode": "85541",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Sulphur Bank",
+        "ZipCode": "95423",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Grindstone",
+        "ZipCode": "95939",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59434",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59411",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59427",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59417",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59432",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59448",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Blackfeet",
+        "ZipCode": "59486",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Maricopa (Ak Chin)",
+        "ZipCode": "85139",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Maricopa (Ak Chin)",
+        "ZipCode": "85172",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Maricopa (Ak Chin)",
+        "ZipCode": "85138",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Big Valley",
+        "ZipCode": "95453",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Tunica-Biloxi",
+        "ZipCode": "71350",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Tunica-Biloxi",
+        "ZipCode": "71351",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Tampa",
+        "ZipCode": "33610",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Mohegan",
+        "ZipCode": "06382",
+        "State": "CT"
+    },
+    {
+        "IndianReservation": "Mohegan",
+        "ZipCode": "06360",
+        "State": "CT"
+    },
+    {
+        "IndianReservation": "Lac du Flambeau",
+        "ZipCode": "54552",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac du Flambeau",
+        "ZipCode": "54512",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac du Flambeau",
+        "ZipCode": "54548",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac du Flambeau",
+        "ZipCode": "54538",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac du Flambeau",
+        "ZipCode": "54545",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Campo",
+        "ZipCode": "91905",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Campo",
+        "ZipCode": "91906",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Campo",
+        "ZipCode": "91962",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Tesuque",
+        "ZipCode": "87506",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sherwood Valley",
+        "ZipCode": "95490",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Middletown",
+        "ZipCode": "95461",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87016",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87121",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87068",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87105",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87059",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87031",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87006",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87026",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87022",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Isleta",
+        "ZipCode": "87002",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59025",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59025",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59035",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59022",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59050",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59101",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59031",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59089",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59075",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59066",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59034",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Crow",
+        "ZipCode": "59016",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Bidwell",
+        "ZipCode": "96112",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Likely",
+        "ZipCode": "96116",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Lookout",
+        "ZipCode": "96054",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "XL Ranch",
+        "ZipCode": "96108",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "XL Ranch",
+        "ZipCode": "96101",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Prairie Island",
+        "ZipCode": "55089",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Pokagon",
+        "ZipCode": "49117",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58636",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58523",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58771",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58541",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58779",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58540",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58580",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58763",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58756",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58770",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58775",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Fort Berthold",
+        "ZipCode": "58757",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Mooretown",
+        "ZipCode": "95966",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Berry Creek",
+        "ZipCode": "95916",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Enterprise",
+        "ZipCode": "95966",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Big Cypress",
+        "ZipCode": "33440",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "L'Anse",
+        "ZipCode": "49946",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "L'Anse",
+        "ZipCode": "49908",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Duck Valley",
+        "ZipCode": "89832",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Duck Valley",
+        "ZipCode": "89832",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Duck Valley",
+        "ZipCode": "89831",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97801",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97859",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97886",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97813",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97868",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Umatilla",
+        "ZipCode": "97810",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Battle Mountain",
+        "ZipCode": "89820",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Hannahville",
+        "ZipCode": "49807",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Hannahville",
+        "ZipCode": "49896",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Ontonagon",
+        "ZipCode": "49953",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Sauk-Suiattle",
+        "ZipCode": "98241",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yomba",
+        "ZipCode": "89045",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Yomba",
+        "ZipCode": "89310",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Sault Ste. Marie",
+        "ZipCode": "49783",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Narragansett",
+        "ZipCode": "02813",
+        "State": "RI"
+    },
+    {
+        "IndianReservation": "Immokalee",
+        "ZipCode": "34142",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56644",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56670",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56650",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56634",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56711",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56727",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56667",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56686",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56623",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56629",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56684",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56654",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56666",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56671",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56676",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56759",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56701",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56652",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56685",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56763",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56751",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56724",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56725",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56627",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56761",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56673",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56630",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Red Lake",
+        "ZipCode": "56742",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Paskenta",
+        "ZipCode": "96021",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Winnemucca",
+        "ZipCode": "89445",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Snoqualmie",
+        "ZipCode": "98065",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Snoqualmie",
+        "ZipCode": "98024",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Muckleshoot",
+        "ZipCode": "98002",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Muckleshoot",
+        "ZipCode": "98022",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Muckleshoot",
+        "ZipCode": "98391",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Muckleshoot",
+        "ZipCode": "98321",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Muckleshoot",
+        "ZipCode": "98092",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98422",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98424",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98354",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98371",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98023",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98404",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98443",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98003",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Puyallup",
+        "ZipCode": "98421",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Fort McDowell Yavapai Nation",
+        "ZipCode": "85264",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85339",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85139",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85226",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85142",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85138",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85248",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85128",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85147",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Gila River",
+        "ZipCode": "85121",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85257",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85203",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85215",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85258",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85201",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85259",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85264",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85250",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85256",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Salt River",
+        "ZipCode": "85251",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Upper Sioux",
+        "ZipCode": "56241",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Taos",
+        "ZipCode": "87571",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Taos",
+        "ZipCode": "87529",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Pleasant Point",
+        "ZipCode": "04667",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Brighton",
+        "ZipCode": "34974",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Brighton",
+        "ZipCode": "33471",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14779",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14779",
+        "State": "PA"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14772",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14783",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14783",
+        "State": "PA"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14753",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14753",
+        "State": "PA"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14706",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14755",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Allegany",
+        "ZipCode": "14748",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59263",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59254",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59225",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59248",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59230",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59226",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59201",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59255",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59247",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59258",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59253",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59244",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59260",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59213",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59218",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59242",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Peck",
+        "ZipCode": "59222",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Swinomish",
+        "ZipCode": "98221",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Swinomish",
+        "ZipCode": "98257",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Pechanga",
+        "ZipCode": "92590",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pechanga",
+        "ZipCode": "92592",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Annette Island",
+        "ZipCode": "99926",
+        "State": "AK"
+    },
+    {
+        "IndianReservation": "Moapa River",
+        "ZipCode": "89025",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Bay Mills",
+        "ZipCode": "49724",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Bay Mills",
+        "ZipCode": "49715",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Bay Mills",
+        "ZipCode": "49783",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74652",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74637",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74650",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74070",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74002",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74001",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74126",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74058",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74022",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74022",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74106",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74604",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74056",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74056",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74035",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74054",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74060",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74063",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74084",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74633",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74003",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74127",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74073",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Osage",
+        "ZipCode": "74051",
+        "State": "OK"
+    },
+    {
+        "IndianReservation": "Alturas",
+        "ZipCode": "96101",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cedarville",
+        "ZipCode": "96104",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Warm Springs",
+        "ZipCode": "97759",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Warm Springs",
+        "ZipCode": "97037",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Warm Springs",
+        "ZipCode": "97730",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Warm Springs",
+        "ZipCode": "97342",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Warm Springs",
+        "ZipCode": "97761",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Yavapai-Apache Nation",
+        "ZipCode": "86322",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Yavapai-Apache Nation",
+        "ZipCode": "86324",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Yavapai-Apache Nation",
+        "ZipCode": "86335",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "58528",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57601",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57621",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57633",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57644",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57642",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57642",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57660",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57660",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "58568",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "58568",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "58570",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57641",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57641",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57638",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57638",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57657",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57645",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57645",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57634",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57634",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57639",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57656",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57659",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57659",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "57658",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Standing Rock",
+        "ZipCode": "58538",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Grand Ronde",
+        "ZipCode": "97396",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Grand Ronde",
+        "ZipCode": "97347",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Woodfords",
+        "ZipCode": "96120",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Ramona",
+        "ZipCode": "92544",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Ramona",
+        "ZipCode": "92539",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Burns Paiute",
+        "ZipCode": "97720",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Lummi",
+        "ZipCode": "98226",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Lummi",
+        "ZipCode": "98248",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Nooksack",
+        "ZipCode": "98244",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Nooksack",
+        "ZipCode": "98247",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Karuk",
+        "ZipCode": "96039",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Karuk",
+        "ZipCode": "95556",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Table Bluff",
+        "ZipCode": "95551",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Trinidad",
+        "ZipCode": "95570",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Yurok",
+        "ZipCode": "95546",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Yurok",
+        "ZipCode": "95555",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Yurok",
+        "ZipCode": "95548",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Bois Forte",
+        "ZipCode": "55790",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Bois Forte",
+        "ZipCode": "55771",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Bois Forte",
+        "ZipCode": "55772",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Bois Forte",
+        "ZipCode": "56639",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Bois Forte",
+        "ZipCode": "56653",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55780",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55718",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55720",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55779",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55736",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Fond du Lac",
+        "ZipCode": "55711",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Turtle Mountain",
+        "ZipCode": "58316",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Turtle Mountain",
+        "ZipCode": "58367",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Shakopee Mdewakanton Sioux",
+        "ZipCode": "55372",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Shakopee Mdewakanton Sioux",
+        "ZipCode": "55379",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Santa Rosa",
+        "ZipCode": "93245",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Sycuan",
+        "ZipCode": "92019",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "98829",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99138",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99124",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99166",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "98813",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99155",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "98841",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99140",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "98812",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "98840",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Colville",
+        "ZipCode": "99116",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68038",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68067",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68055",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68039",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68039",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68004",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "51063",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "51063",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "51055",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "51055",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68020",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68020",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68791",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68062",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68047",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68071",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Omaha",
+        "ZipCode": "68071",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54853",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54858",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54829",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54889",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54893",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54871",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "St. Croix",
+        "ZipCode": "54872",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Campbell",
+        "ZipCode": "89447",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Upper Lake",
+        "ZipCode": "95485",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56659",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56626",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56663",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56636",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "55721",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56633",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56655",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56672",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56641",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56484",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56461",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56601",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56681",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56630",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Leech Lake",
+        "ZipCode": "56680",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Big Bend",
+        "ZipCode": "96011",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Montgomery Creek",
+        "ZipCode": "96065",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Shoalwater Bay",
+        "ZipCode": "98547",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Shoalwater Bay",
+        "ZipCode": "98590",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Tule River",
+        "ZipCode": "93257",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82514",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82516",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82523",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82649",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82443",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82501",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82512",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82520",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82513",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82510",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Wind River",
+        "ZipCode": "82515",
+        "State": "WY"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68067",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68733",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "51055",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "51055",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68784",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68062",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68047",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68071",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Winnebago",
+        "ZipCode": "68071",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Huron Potawatomi",
+        "ZipCode": "49011",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Huron Potawatomi",
+        "ZipCode": "49052",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Spokane",
+        "ZipCode": "99122",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Spokane",
+        "ZipCode": "99173",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Spokane",
+        "ZipCode": "99013",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Spokane",
+        "ZipCode": "99129",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Spokane",
+        "ZipCode": "99040",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98619",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98361",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98939",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98935",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98932",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98933",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98944",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98903",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98951",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98948",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Yakama Nation",
+        "ZipCode": "98952",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Lovelock",
+        "ZipCode": "89419",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Houlton Maliseet",
+        "ZipCode": "04730",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04457",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04448",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04430",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04459",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04468",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Penobscot",
+        "ZipCode": "04460",
+        "State": "ME"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89441",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89521",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89502",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89511",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89511",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89439",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89439",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89436",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89431",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Reno-Sparks",
+        "ZipCode": "89506",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Las Vegas",
+        "ZipCode": "89106",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Las Vegas",
+        "ZipCode": "89124",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Walker River",
+        "ZipCode": "89447",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Walker River",
+        "ZipCode": "89427",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Goshute",
+        "ZipCode": "84034",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Goshute",
+        "ZipCode": "84034",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97410",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97471",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97469",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97442",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97496",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97470",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97429",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97417",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97457",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cow Creek",
+        "ZipCode": "97484",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Viejas",
+        "ZipCode": "91916",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Viejas",
+        "ZipCode": "91901",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Flandreau",
+        "ZipCode": "57028",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83204",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83203",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83221",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83236",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83262",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Fort Hall",
+        "ZipCode": "83202",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Oil Springs",
+        "ZipCode": "14727",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49770",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49701",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49718",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49740",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49720",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Little Traverse Bay",
+        "ZipCode": "49755",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "San Pasqual",
+        "ZipCode": "92082",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Santa Ysabel",
+        "ZipCode": "92065",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Santa Ysabel",
+        "ZipCode": "92070",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Santa Ysabel",
+        "ZipCode": "92086",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Rincon",
+        "ZipCode": "92082",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Lac Courte Oreilles",
+        "ZipCode": "54843",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac Courte Oreilles",
+        "ZipCode": "54876",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Lac Courte Oreilles",
+        "ZipCode": "54828",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Bad River",
+        "ZipCode": "54806",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Bad River",
+        "ZipCode": "54861",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Bad River",
+        "ZipCode": "54546",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Bad River",
+        "ZipCode": "54559",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Bad River",
+        "ZipCode": "54855",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Redwood Valley",
+        "ZipCode": "95470",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Stockbridge Munsee",
+        "ZipCode": "54416",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Stockbridge Munsee",
+        "ZipCode": "54128",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Kalispel",
+        "ZipCode": "99001",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Kalispel",
+        "ZipCode": "99180",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Kalispel",
+        "ZipCode": "99119",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Dresslerville",
+        "ZipCode": "89410",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Dresslerville",
+        "ZipCode": "89460",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Port Gamble",
+        "ZipCode": "98346",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quartz Valley",
+        "ZipCode": "96032",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13134",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13104",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13440",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13328",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13471",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13035",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13476",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13157",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13054",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13461",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13402",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13032",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13323",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13425",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13421",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13308",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13163",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13303",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13082",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13477",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13162",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13409",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13037",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13030",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13478",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Oneida Indian Nation",
+        "ZipCode": "13408",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Pascua Pueblo Yaqui",
+        "ZipCode": "85757",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Pascua Pueblo Yaqui",
+        "ZipCode": "85746",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87122",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87048",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87113",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87004",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87144",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87043",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Sandia",
+        "ZipCode": "87114",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Auburn",
+        "ZipCode": "95648",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48658",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48618",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48878",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48617",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "49340",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48622",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48893",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Isabella",
+        "ZipCode": "48858",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39090",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39189",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39439",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39564",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39350",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39354",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39339",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39051",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39074",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39328",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39057",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Mississippi Choctaw",
+        "ZipCode": "39341",
+        "State": "MS"
+    },
+    {
+        "IndianReservation": "Fallon Paiute-Shoshone",
+        "ZipCode": "89406",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Elk Valley",
+        "ZipCode": "95531",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Resighini",
+        "ZipCode": "95548",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fallon Paiute-Shoshone",
+        "ZipCode": "89406",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Prairie Band of Potawatomi Nation",
+        "ZipCode": "66540",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Prairie Band of Potawatomi Nation",
+        "ZipCode": "66436",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Prairie Band of Potawatomi Nation",
+        "ZipCode": "66418",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Prairie Band of Potawatomi Nation",
+        "ZipCode": "66440",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Prairie Band of Potawatomi Nation",
+        "ZipCode": "66509",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57370",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57345",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57540",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57339",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57325",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57341",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57536",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Crow Creek",
+        "ZipCode": "57346",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Benton Paiute",
+        "ZipCode": "93512",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Benton Paiute",
+        "ZipCode": "93514",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Bridgeport",
+        "ZipCode": "93517",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pinoleville",
+        "ZipCode": "95482",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Duckwater",
+        "ZipCode": "89314",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Santo Domingo",
+        "ZipCode": "87041",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santo Domingo",
+        "ZipCode": "87052",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santo Domingo",
+        "ZipCode": "87507",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santo Domingo",
+        "ZipCode": "87010",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66434",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66552",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66425",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66527",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66516",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66058",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Kickapoo (KS)",
+        "ZipCode": "66439",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Capitan Grande",
+        "ZipCode": "91901",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Grand Portage",
+        "ZipCode": "55605",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Grand Portage",
+        "ZipCode": "55606",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "North Fork",
+        "ZipCode": "93643",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Picayune",
+        "ZipCode": "93614",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Havasupai",
+        "ZipCode": "86435",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86034",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86030",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86045",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86035",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86042",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86510",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86043",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86039",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86033",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86044",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hopi",
+        "ZipCode": "86047",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "86401",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "86411",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "86435",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "86437",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "86434",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Hualapai",
+        "ZipCode": "85360",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97465",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97459",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97420",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97467",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97439",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97412",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coos, Lower Umpqua, and Siuslaw",
+        "ZipCode": "97473",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Stewart",
+        "ZipCode": "89701",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Stewart",
+        "ZipCode": "89705",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Stewart",
+        "ZipCode": "89423",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Stewart",
+        "ZipCode": "89411",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Klamath",
+        "ZipCode": "97624",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Klamath",
+        "ZipCode": "97601",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Klamath",
+        "ZipCode": "97639",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Klamath",
+        "ZipCode": "97621",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Inaja and Cosmit",
+        "ZipCode": "92036",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Jamul",
+        "ZipCode": "91935",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Upper Skagit",
+        "ZipCode": "98233",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Upper Skagit",
+        "ZipCode": "98284",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Upper Skagit",
+        "ZipCode": "98232",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Redding",
+        "ZipCode": "96001",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54104",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54175",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54541",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54566",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54125",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54542",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Forest County Potawatomi",
+        "ZipCode": "54520",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Sokaogon Chippewa",
+        "ZipCode": "54520",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Laytonville",
+        "ZipCode": "95454",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Manchester-Point Arena",
+        "ZipCode": "95459",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Manchester-Point Arena",
+        "ZipCode": "95468",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "68431",
+        "State": "MO"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "68431",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "66434",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "66434",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "66094",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "66094",
+        "State": "MO"
+    },
+    {
+        "IndianReservation": "Iowa (KS-NE)",
+        "ZipCode": "66094",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Sac and Fox Nation",
+        "ZipCode": "68431",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Sac and Fox Nation",
+        "ZipCode": "66434",
+        "State": "KS"
+    },
+    {
+        "IndianReservation": "Sac and Fox Nation",
+        "ZipCode": "66434",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Sac and Fox Nation",
+        "ZipCode": "68355",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Lytton",
+        "ZipCode": "94806",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97367",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97326",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97380",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97357",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97343",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Siletz",
+        "ZipCode": "97391",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85930",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85935",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85926",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85941",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85902",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85911",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85929",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Apache",
+        "ZipCode": "85927",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "87321",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "87327",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "85924",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "85936",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "85936",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Zuni",
+        "ZipCode": "87829",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84063",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84051",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84039",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84072",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84026",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84085",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84078",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84082",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84036",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84001",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84021",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84008",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84540",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84540",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84002",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84053",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84066",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84052",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84032",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84027",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84007",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84031",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84073",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Uintah and Ouray",
+        "ZipCode": "84076",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Pauma and Yuima",
+        "ZipCode": "92059",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pauma and Yuima",
+        "ZipCode": "92061",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Northwestern Shoshone",
+        "ZipCode": "84331",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Table Mountain",
+        "ZipCode": "93626",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Greenville",
+        "ZipCode": "95947",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59848",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59859",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59929",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59864",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59931",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59860",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59914",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59865",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59855",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59821",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59845",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59824",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59910",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59911",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59808",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59831",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59915",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Flathead",
+        "ZipCode": "59863",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Hollywood",
+        "ZipCode": "33024",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Hollywood",
+        "ZipCode": "33021",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Hollywood",
+        "ZipCode": "33314",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Cochiti",
+        "ZipCode": "87041",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Cochiti",
+        "ZipCode": "87072",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Cochiti",
+        "ZipCode": "87507",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Cochiti",
+        "ZipCode": "87083",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Nambe",
+        "ZipCode": "87506",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "San Ildefonso",
+        "ZipCode": "87506",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santa Clara",
+        "ZipCode": "87532",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Santa Clara",
+        "ZipCode": "87567",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "St. Regis Mohawk",
+        "ZipCode": "13655",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Skokomish",
+        "ZipCode": "98584",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Skokomish",
+        "ZipCode": "98548",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Chitimacha",
+        "ZipCode": "70523",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Chitimacha",
+        "ZipCode": "70544",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Smith River",
+        "ZipCode": "95567",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Sac and Fox/Meskwaki",
+        "ZipCode": "52339",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Sac and Fox/Meskwaki",
+        "ZipCode": "50173",
+        "State": "IA"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84733",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84637",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84701",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84721",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84720",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84739",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84766",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Paiute (UT)",
+        "ZipCode": "84738",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Match-e-be-nash-she-wish Band of Pottawatomi",
+        "ZipCode": "49348",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "Chicken Ranch",
+        "ZipCode": "95327",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Hopland",
+        "ZipCode": "95449",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Hopland",
+        "ZipCode": "95453",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Big Lagoon",
+        "ZipCode": "95570",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Blue Lake",
+        "ZipCode": "95525",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Poarch Creek",
+        "ZipCode": "36092",
+        "State": "AL"
+    },
+    {
+        "IndianReservation": "Poarch Creek",
+        "ZipCode": "36502",
+        "State": "AL"
+    },
+    {
+        "IndianReservation": "Lac Vieux Desert",
+        "ZipCode": "49969",
+        "State": "MI"
+    },
+    {
+        "IndianReservation": "La Jolla",
+        "ZipCode": "92061",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "La Jolla",
+        "ZipCode": "92060",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "La Jolla",
+        "ZipCode": "92070",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cold Springs",
+        "ZipCode": "93667",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Santa Rosa",
+        "ZipCode": "92561",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Menominee",
+        "ZipCode": "54135",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Menominee",
+        "ZipCode": "54150",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Menominee",
+        "ZipCode": "54174",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Menominee",
+        "ZipCode": "54124",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Jena Band of Choctaw",
+        "ZipCode": "71342",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Jena Band of Choctaw",
+        "ZipCode": "71423",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Jena Band of Choctaw",
+        "ZipCode": "71371",
+        "State": "LA"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58053",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58053",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58013",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58013",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58043",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58043",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58041",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58041",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "58067",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57430",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57430",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57255",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57255",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57232",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57279",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57279",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57235",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57260",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57260",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57260",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "56219",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "56219",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57270",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57270",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57224",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57266",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57263",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57262",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57257",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57273",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57256",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57239",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57201",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Lake Traverse",
+        "ZipCode": "57247",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Red Cliff",
+        "ZipCode": "54814",
+        "State": "WI"
+    },
+    {
+        "IndianReservation": "Elko",
+        "ZipCode": "89801",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58379",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58335",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58357",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58374",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58380",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58381",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58351",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58301",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58327",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Spirit Lake",
+        "ZipCode": "58370",
+        "State": "ND"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57367",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57361",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57342",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57330",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57380",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57380",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57356",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57313",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57329",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57315",
+        "State": "NE"
+    },
+    {
+        "IndianReservation": "Yankton",
+        "ZipCode": "57315",
+        "State": "SD"
+    },
+    {
+        "IndianReservation": "Ely",
+        "ZipCode": "89301",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Colusa",
+        "ZipCode": "95932",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colusa",
+        "ZipCode": "95970",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cortina",
+        "ZipCode": "95987",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Acoma",
+        "ZipCode": "87034",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Acoma",
+        "ZipCode": "87026",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Acoma",
+        "ZipCode": "87020",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Fort Sill Apache",
+        "ZipCode": "88030",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Mashantucket Pequot",
+        "ZipCode": "06338",
+        "State": "CT"
+    },
+    {
+        "IndianReservation": "Mashantucket Pequot",
+        "ZipCode": "06339",
+        "State": "CT"
+    },
+    {
+        "IndianReservation": "Dry Creek",
+        "ZipCode": "95441",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Stewarts Point",
+        "ZipCode": "95421",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Stewarts Point",
+        "ZipCode": "95480",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Lower Sioux",
+        "ZipCode": "56270",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Lower Sioux",
+        "ZipCode": "56283",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Cabazon",
+        "ZipCode": "92274",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cabazon",
+        "ZipCode": "92236",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cabazon",
+        "ZipCode": "92254",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cabazon",
+        "ZipCode": "92203",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cabazon",
+        "ZipCode": "92201",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Round Valley",
+        "ZipCode": "95428",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Round Valley",
+        "ZipCode": "95595",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort McDermitt",
+        "ZipCode": "89445",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Fort McDermitt",
+        "ZipCode": "89421",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Fort McDermitt",
+        "ZipCode": "89421",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Summit Lake",
+        "ZipCode": "89412",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Rumsey",
+        "ZipCode": "95606",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Belknap",
+        "ZipCode": "59523",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Belknap",
+        "ZipCode": "59526",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Belknap",
+        "ZipCode": "59524",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Belknap",
+        "ZipCode": "59527",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Fort Belknap",
+        "ZipCode": "59546",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Los Coyotes",
+        "ZipCode": "92086",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Manzanita",
+        "ZipCode": "91905",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Mesa Grande",
+        "ZipCode": "92065",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Mesa Grande",
+        "ZipCode": "92070",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pala",
+        "ZipCode": "92059",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pala",
+        "ZipCode": "92082",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pala",
+        "ZipCode": "92061",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pala",
+        "ZipCode": "92028",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Onondaga Nation",
+        "ZipCode": "13120",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "San Manuel",
+        "ZipCode": "92346",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "San Manuel",
+        "ZipCode": "92404",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cowlitz",
+        "ZipCode": "98642",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Twenty-Nine Palms",
+        "ZipCode": "92277",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Twenty-Nine Palms",
+        "ZipCode": "92236",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Twenty-Nine Palms",
+        "ZipCode": "92201",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Bishop",
+        "ZipCode": "93514",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Yavapai-Prescott",
+        "ZipCode": "86301",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Stillaguamish",
+        "ZipCode": "98223",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Tulalip",
+        "ZipCode": "98271",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Tulalip",
+        "ZipCode": "98292",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Shingle Springs",
+        "ZipCode": "95667",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Shingle Springs",
+        "ZipCode": "95682",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Alabama-Coushatta",
+        "ZipCode": "77351",
+        "State": "TX"
+    },
+    {
+        "IndianReservation": "Rocky Boy's",
+        "ZipCode": "59501",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Rocky Boy's",
+        "ZipCode": "59521",
+        "State": "MT"
+    },
+    {
+        "IndianReservation": "Lower Elwha",
+        "ZipCode": "98363",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Lower Elwha",
+        "ZipCode": "98326",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Makah",
+        "ZipCode": "98357",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Makah",
+        "ZipCode": "98326",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quileute",
+        "ZipCode": "98350",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Quileute",
+        "ZipCode": "98331",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Jackson",
+        "ZipCode": "95642",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Ewiiaapaayp",
+        "ZipCode": "91901",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87038",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87121",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87040",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87007",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87031",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87034",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87026",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87049",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Laguna",
+        "ZipCode": "87002",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84512",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87322",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87375",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87316",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87301",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87320",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87319",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87321",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87825",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87037",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87310",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86053",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86053",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86034",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87461",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87045",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86032",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "85936",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "85936",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87328",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87328",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86054",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86054",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86535",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86535",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86020",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86036",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86036",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86544",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86544",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86538",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86506",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86045",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86035",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86540",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86025",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87326",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87323",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87357",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87421",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87420",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87420",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87313",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87412",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "81324",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "81324",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87305",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87026",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86511",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86511",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86547",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86556",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86556",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86512",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86512",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86031",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86503",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86505",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84531",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84531",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86510",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84536",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84536",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86502",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86004",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86507",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84533",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84535",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84535",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84534",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84534",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "84511",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86016",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86003",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86040",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86040",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86515",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86515",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86039",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86033",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86033",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86504",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86504",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86514",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86514",
+        "State": "CO"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86514",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86514",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86545",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86044",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86044",
+        "State": "UT"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86047",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87416",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87455",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87413",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87325",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87312",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87364",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87499",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86023",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87013",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86028",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86520",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86508",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "86508",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87311",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Navajo Nation",
+        "ZipCode": "87401",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Tuscarora Nation",
+        "ZipCode": "14092",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Tuscarora Nation",
+        "ZipCode": "14132",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Cocopah",
+        "ZipCode": "85350",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Cocopah",
+        "ZipCode": "85364",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Cocopah",
+        "ZipCode": "85364",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92266",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92266",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92222",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92222",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "85364",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "85364",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92283",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "92283",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "85365",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Fort Yuma",
+        "ZipCode": "85365",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cattaraugus",
+        "ZipCode": "14070",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Cattaraugus",
+        "ZipCode": "14081",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Cattaraugus",
+        "ZipCode": "14091",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Cattaraugus",
+        "ZipCode": "14129",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Tonawanda",
+        "ZipCode": "14013",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Tonawanda",
+        "ZipCode": "14001",
+        "State": "NY"
+    },
+    {
+        "IndianReservation": "Miccosukee",
+        "ZipCode": "33194",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "Jamestown S'Klallam",
+        "ZipCode": "98382",
+        "State": "WA"
+    },
+    {
+        "IndianReservation": "Ohkay Owingeh",
+        "ZipCode": "87537",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Ohkay Owingeh",
+        "ZipCode": "87566",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Ohkay Owingeh",
+        "ZipCode": "87511",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Ohkay Owingeh",
+        "ZipCode": "87532",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Robinson",
+        "ZipCode": "95464",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Robinson",
+        "ZipCode": "95453",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Robinson",
+        "ZipCode": "95485",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92270",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92549",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92264",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92234",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92276",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Agua Caliente",
+        "ZipCode": "92262",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Kickapoo (TX)",
+        "ZipCode": "78852",
+        "State": "TX"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "56450",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "56386",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "56359",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "55063",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "55760",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "56431",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "56342",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Mille Lacs",
+        "ZipCode": "55037",
+        "State": "MN"
+    },
+    {
+        "IndianReservation": "Catawba",
+        "ZipCode": "29730",
+        "State": "SC"
+    },
+    {
+        "IndianReservation": "Picuris",
+        "ZipCode": "87553",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Picuris",
+        "ZipCode": "87579",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Picuris",
+        "ZipCode": "87521",
+        "State": "NM"
+    },
+    {
+        "IndianReservation": "Tuolumne",
+        "ZipCode": "95379",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Pierce",
+        "ZipCode": "34945",
+        "State": "FL"
+    },
+    {
+        "IndianReservation": "La Posta",
+        "ZipCode": "91905",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "La Posta",
+        "ZipCode": "91962",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83861",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83842",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "99033",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83814",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83833",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83824",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83870",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83876",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Coeur d'Alene",
+        "ZipCode": "83851",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83526",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83543",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83522",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83530",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83541",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83524",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83501",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83535",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83540",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83536",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83523",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83548",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83539",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83545",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83520",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83552",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83544",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83832",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83533",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Nez Perce",
+        "ZipCode": "83555",
+        "State": "ID"
+    },
+    {
+        "IndianReservation": "Big Pine",
+        "ZipCode": "93513",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Coquille",
+        "ZipCode": "97459",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coquille",
+        "ZipCode": "97420",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coquille",
+        "ZipCode": "97411",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coquille",
+        "ZipCode": "97458",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Coquille",
+        "ZipCode": "97414",
+        "State": "OR"
+    },
+    {
+        "IndianReservation": "Cahuilla",
+        "ZipCode": "92536",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Cahuilla",
+        "ZipCode": "92539",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "92242",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "92242",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "85344",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "85344",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "85334",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "85334",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "92225",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "92225",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Colorado River",
+        "ZipCode": "85371",
+        "State": "AZ"
+    },
+    {
+        "IndianReservation": "Morongo",
+        "ZipCode": "92282",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Morongo",
+        "ZipCode": "92220",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Morongo",
+        "ZipCode": "92230",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Fort Independence",
+        "ZipCode": "93526",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Soboba",
+        "ZipCode": "92544",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Soboba",
+        "ZipCode": "92583",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Torres-Martinez",
+        "ZipCode": "92274",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Torres-Martinez",
+        "ZipCode": "92254",
+        "State": "CA"
+    },
+    {
+        "IndianReservation": "Pyramid Lake Paiute",
+        "ZipCode": "89442",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Pyramid Lake Paiute",
+        "ZipCode": "89434",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Pyramid Lake Paiute",
+        "ZipCode": "89408",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Pyramid Lake Paiute",
+        "ZipCode": "89510",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Pyramid Lake Paiute",
+        "ZipCode": "89424",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Yerington",
+        "ZipCode": "89447",
+        "State": "NV"
+    },
+    {
+        "IndianReservation": "Zia",
+        "ZipCode": "87053",
+        "State": "NM"
+    }
+]
